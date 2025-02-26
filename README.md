@@ -34,4 +34,11 @@ This system facilitates seamless **order placement, tracking, and management** i
 ✅ Marks orders as **completed or canceled**  
 ✅ Receives real-time **order updates**  
 
+### features:
+🔹Implemented a graphical user interface (GUI) for better user experience
+🔹 Integrated with a database for persistent order tracking
+🔹 Added real-time notifications for improved communication
+
 ## 🚀 project in zip file link:
+https://github.com/Basant-medhat/Restaurant-ordering-and-management-system/blob/main/Resturant.rar
+
